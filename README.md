@@ -325,7 +325,7 @@ output/
     <img src="https://img.shields.io/badge/GitHub-Alpha%20Robotics%20Team-blue?style=for-the-badge&logo=github&logoColor=white" alt="Alpha Robotics Team">
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="seyedsoheilsamandar12@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
